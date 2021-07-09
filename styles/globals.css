@@ -15,7 +15,7 @@
     @apply text-black font-semibold;
   }
   .input-container {
-    @apply md:flex md:px-7;
+    @apply md:flex md:p-6;
   }
 }
 
